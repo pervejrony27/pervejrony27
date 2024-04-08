@@ -1,4 +1,4 @@
-![logo](![image](https://github.com/pervejrony27/pervejrony27/assets/147268299/1e744bf1-4353-4845-bbab-c5c0d2de1801)
+![logo](![Black Orange Bold Photography Channel Youtube Banner](https://github.com/pervejrony27/pervejrony27/assets/147268299/1a68d173-3b77-4535-b19a-cddeecefbc25)
 )
 <h1 align="center">Hi 👋, I'm Md.Pervej Ahmed(Rony)</h1>
 <h3 align="center">A passionate Competitive Programmer from Bangladesh</h3>
