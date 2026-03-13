@@ -5,11 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pervejrony27&label=Profile%20views&color=0e75b6&style=flat" alt="pervejrony27" /> </p>
 
-- 🎓 B.Sc. in Computer Science & Engineering at **BAIUST** (Expected 2026).
-- 🔭 Currently working as a **Research Assistant** on ML-Based Phishing Detection.
-- 🌱 Deep diving into **Web Application Security, Penetration Testing & Ethical Hacking**.
+- 🎓 **B.Sc. Graduate** in Computer Science & Engineering from **BAIUST**.
+- 🔭 Working as a **Research Assistant** focusing on ML-Based Phishing Detection (using **Python & Scikit-learn**).
+- 🌱 Deep diving into **Web Application Security, Penetration Testing & Ethical Hacking** (using **Kali Linux & Burp Suite**).
 - 💻 Building projects involving **AI (YOLOv3)**, **Flask**, and **Full-stack Web Dev (PHP/MySQL)**.
-- 🏆 Multiple-time participant in **IUPC** and Hackathon Organizer/Lead.
+- 🏆 Multiple-time participant in **IUPC** (IUT, CUET, CoU, BAIUST) and Hackathon Organizer/Lead.
+- 🎯 **Competitive Programming:** Solved **210+** problems & participated in **[31]** contests on **Codeforces** | Solved **330+** problems on **CodeChef**.
 - 📫 How to reach me: **pervejahmedrony577781@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -40,10 +41,28 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
+<br clear="both">
+<hr>
+
+<h3 align="center">🏆 Competitive Programming & GitHub Stats</h3>
+
+<div align="center">
+  <a href="https://codeforces.com/profile/pervej_rony27" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-210%2B_Problems_Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Problems" />
+  </a>
+  <a href="https://codeforces.com/profile/pervej_rony27" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-[31]_Contests-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Contests" />
+  </a>
+  <a href="https://www.codechef.com/users/pervej_rony27" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-330%2B_Problems_Solved-1F8ACB?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Problems" />
+  </a>
+</div>
 <br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pervejrony27&show_icons=true&locale=en&layout=compact" alt="pervejrony27" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pervejrony27&show_icons=true&locale=en" alt="pervejrony27" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pervejrony27&" alt="pervejrony27" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pervejrony27&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pervejrony27&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pervejrony27&" alt="GitHub Streak" />
+</div>
